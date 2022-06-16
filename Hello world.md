@@ -1,5 +1,3 @@
 ## Hello!
 
 info
-
-info2
